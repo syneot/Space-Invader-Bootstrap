@@ -1,0 +1,14 @@
+.container{
+    width: 400px;
+    height: 400px;
+}
+
+.white{
+    background-color:white;
+    height: 30px;
+}
+
+.green{
+    background-color: green;
+    height: 30px;
+}
